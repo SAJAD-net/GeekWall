@@ -1,7 +1,7 @@
 # GeekWall 🤓
 ⚡ Wallpapers for geeks, programmers, hackers ....
 
-# Preview of '1920x1080' wallpapers
+## Preview of '1920x1080' wallpapers
 ![preview-1920x1080-12.jpeg](1920x1080/12_1920x1080.jpeg?raw=true)
 ![preview-1920x1080-11.jpeg](1920x1080/11_1920x1080.jpeg?raw=true)
 ![preview-1920x1080-10.jpeg](1920x1080/10_1920x1080.jpeg?raw=true)
