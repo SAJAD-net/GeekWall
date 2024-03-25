@@ -13,7 +13,7 @@ fi
 
 for npic in `ls -ut $1`
 do
-	if [[ ! $npic =~ [0-9]+\_[0-9]+x[0-9]+\. ]];then
+	if [[ ! $npic =~ [0-9]+\_$dpt\. ]];then
 		last_pic=$(($last_pic + 1))
 		ext=${npic##*.}
 		nname=${last_pic}_$dpt.$ext
