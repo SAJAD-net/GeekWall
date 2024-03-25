@@ -2,6 +2,10 @@
 ⚡ Wallpapers for geeks, programmers, hackers ....
 
 ## <div align="center">1920x1080</div>
+![preview-1920x1080-16.png](1920x1080/16_1920x1080.png?raw=true)
+![preview-1920x1080-15.png](1920x1080/15_1920x1080.png?raw=true)
+![preview-1920x1080-14.png](1920x1080/14_1920x1080.png?raw=true)
+![preview-1920x1080-13.png](1920x1080/13_1920x1080.png?raw=true)
 ![preview-1920x1080-12.jpeg](1920x1080/12_1920x1080.jpeg?raw=true)
 ![preview-1920x1080-11.jpeg](1920x1080/11_1920x1080.jpeg?raw=true)
 ![preview-1920x1080-10.jpeg](1920x1080/10_1920x1080.jpeg?raw=true)
