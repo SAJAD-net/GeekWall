@@ -1,29 +1,25 @@
 #!/bin/bash
 
-ltn=$(awk "/$1/{ print NR; exit }" README.md)
+dpt=$(echo $1 | grep -Eo '\w*')
+ltn=$(awk "/$dpt/{ print NR; exit }" README.md)
 ltn=$(($ltn + 1))
 
-for pic in `ls -tcr $1`
-do
-	if [[ $pic =~ [0-9]+\_[0-9]+x[0-9]+\. ]];then
-		last_pic=$(echo $pic | sed -r "s/_([0-9]*x[0-9]*).\w*//")
-	fi
-done
+last_pic=$(sed "${ltn}q;d" README.md | grep -Eo '[0-9]*_' | sed -r "s/_//")
 
 if [ ! $last_pic ]
 then
 	last_pic=0
 fi
 
-for npic in `ls -tcr $1`
+for npic in `ls -ut $1`
 do
 	if [[ ! $npic =~ [0-9]+\_[0-9]+x[0-9]+\. ]];then
 		last_pic=$(($last_pic + 1))
 		ext=${npic##*.}
-		nname=${last_pic}_$1.$ext
+		nname=${last_pic}_$dpt.$ext
 		
-		mv $1/$npic $1/$nname
-		prel="![preview-$1-"$last_pic".$ext]($1/$nname?raw=true)"
+		mv $dpt/$npic $dpt/$nname
+		prel="![preview-$dpt-"$last_pic".$ext]($dpt/$nname?raw=true)"
 		sed -i "${ltn}i $prel" README.md
 	fi
 done
