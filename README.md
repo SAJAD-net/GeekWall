@@ -2,7 +2,6 @@
 ⚡ Wallpapers for geeks, programmers, hackers ....
 
 ## <div align="center">4k</div>
-![preview-4k-6.jpg](4k/6_4k.jpg?raw=true)
 ![preview-4k-5.jpg](4k/5_4k.jpg?raw=true)
 ![preview-4k-4.jpg](4k/4_4k.jpg?raw=true)
 ![preview-4k-3.jpg](4k/3_4k.jpg?raw=true)
