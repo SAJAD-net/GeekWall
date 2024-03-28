@@ -9,6 +9,11 @@
 ![preview-4k-1.jpg](4k/1_4k.jpg?raw=true)
 
 ## <div align="center">1920x1080</div>
+![preview-1920x1080-21.jpg](1920x1080/21_1920x1080.jpg?raw=true)
+![preview-1920x1080-20.png](1920x1080/20_1920x1080.png?raw=true)
+![preview-1920x1080-19.png](1920x1080/19_1920x1080.png?raw=true)
+![preview-1920x1080-18.png](1920x1080/18_1920x1080.png?raw=true)
+![preview-1920x1080-17.jpg](1920x1080/17_1920x1080.jpg?raw=true)
 ![preview-1920x1080-16.png](1920x1080/16_1920x1080.png?raw=true)
 ![preview-1920x1080-15.png](1920x1080/15_1920x1080.png?raw=true)
 ![preview-1920x1080-14.png](1920x1080/14_1920x1080.png?raw=true)
