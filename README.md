@@ -1,5 +1,8 @@
 # GeekWall 🤓
 ⚡ Wallpapers for geeks, programmers, hackers ....
+<br/>
+
+**Note:** If you believe some content constitutes copyright infringemen, open an issue and include your detailed claim and description of the content, and I will remove it.
 
 ## <div align="center">4k</div>
 ![preview-4k-8.png](4k/8_4k.png?raw=true)
@@ -35,7 +38,7 @@
 ![preview-1920x1080-1.jpg](1920x1080/1_1920x1080.jpg?raw=true)
 
 ## CONTRIBUTION 🤝🏼
-Contributions are all welcome!!<br>
+Contributions are all welcome!!<br/>
 
 If you think that you're a computer geek, feel free to add wallpapers (<b>computer related only!</b>) which you think that other geeks would like.
 
