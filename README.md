@@ -2,7 +2,7 @@
 ⚡ Wallpapers for geeks, programmers, hackers ....
 <br/>
 
-**Note:** If you believe some content constitutes copyright infringemen, open an issue and include your detailed claim and description of the content, and I will remove it.
+**Note:** If you believe some content constitutes copyright infringement, open an issue and include your detailed claim and description of the content, and I will remove it.
 
 ## <div align="center">4k</div>
 ![preview-4k-12.jpg](4k/12_4k.jpg?raw=true)
